@@ -1,0 +1,5 @@
+Pillow==7.1.2
+PyPDF2==1.26.0
+pypng==0.0.20
+PyQRCode==1.2.1
+reportlab==3.5.42

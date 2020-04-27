@@ -1,0 +1,2911 @@
+('C:\\Users\\Aswin D\\Documents\\Certificate-Generator\\build\\App\\PYZ-00.pyz',
+ [('multiprocessing.popen_fork',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\stat.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\random.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\aswin d\\appdata\\local\\programs\\python\\python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tty.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\token.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\runpy.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\string.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\numbers.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\struct.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('win32com',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\imp.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfmetrics',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\pdfmetrics.py',
+   'PYMODULE'),
+  ('reportlab.lib.fonts',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\fonts.py',
+   'PYMODULE'),
+  ('reportlab.lib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.lib.pdfencrypt',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\pdfencrypt.py',
+   'PYMODULE'),
+  ('reportlab.lib.arciv',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\arciv.py',
+   'PYMODULE'),
+  ('reportlab.platypus.flowables',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\platypus\\flowables.py',
+   'PYMODULE'),
+  ('reportlab.lib.sequencer',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\sequencer.py',
+   'PYMODULE'),
+  ('reportlab.platypus.frames',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\platypus\\frames.py',
+   'PYMODULE'),
+  ('reportlab.platypus.paragraph',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\platypus\\paragraph.py',
+   'PYMODULE'),
+  ('reportlab.lib.units',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\units.py',
+   'PYMODULE'),
+  ('reportlab.lib.geomutils',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\geomutils.py',
+   'PYMODULE'),
+  ('reportlab.platypus.paraparser',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\platypus\\paraparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('reportlab.platypus.doctemplate',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\platypus\\doctemplate.py',
+   'PYMODULE'),
+  ('reportlab.lib.randomtext',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\randomtext.py',
+   'PYMODULE'),
+  ('reportlab.platypus',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\platypus\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.platypus.xpreformatted',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\platypus\\xpreformatted.py',
+   'PYMODULE'),
+  ('reportlab.platypus.tables',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\platypus\\tables.py',
+   'PYMODULE'),
+  ('reportlab.platypus.multicol',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\platypus\\multicol.py',
+   'PYMODULE'),
+  ('reportlab.lib.abag',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\abag.py',
+   'PYMODULE'),
+  ('reportlab.lib.styles',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\styles.py',
+   'PYMODULE'),
+  ('reportlab.lib.enums',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\enums.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfutils',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\pdfutils.py',
+   'PYMODULE'),
+  ('reportlab.lib.PyFontify',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\PyFontify.py',
+   'PYMODULE'),
+  ('reportlab.lib.textsplit',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\textsplit.py',
+   'PYMODULE'),
+  ('reportlab.lib.colors',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\colors.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._glyphlist',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_glyphlist.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.pdfdoc',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\pdfdoc.py',
+   'PYMODULE'),
+  ('reportlab',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.rl_codecs',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\rl_codecs.py',
+   'PYMODULE'),
+  ('reportlab.lib.rl_accel',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\rl_accel.py',
+   'PYMODULE'),
+  ('reportlab.rl_config',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\rl_config.py',
+   'PYMODULE'),
+  ('reportlab.lib.utils',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\utils.py',
+   'PYMODULE'),
+  ('reportlab.rl_settings',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\rl_settings.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\fractions.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('pipes',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\pipes.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.distutils.cpuinfo',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\cpuinfo.py',
+   'PYMODULE'),
+  ('numpy.distutils.compat',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\compat.py',
+   'PYMODULE'),
+  ('numpy.distutils',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config_compiler',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.command',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.egg_info',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.install_scripts',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools.command.easy_install',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\easy_install.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.py33compat',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\py33compat.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.pep425tags',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\pep425tags.py',
+   'PYMODULE'),
+  ('setuptools.glibc',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\glibc.py',
+   'PYMODULE'),
+  ('setuptools.package_index',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\package_index.py',
+   'PYMODULE'),
+  ('setuptools.ssl_support',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\ssl_support.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.py27compat',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\py27compat.py',
+   'PYMODULE'),
+  ('setuptools.sandbox',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\sandbox.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\configparser.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.command.build_scripts',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.install',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('distutils.command.install_scripts',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.six',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\six.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.namespaces',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\namespaces.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.develop',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\develop.py',
+   'PYMODULE'),
+  ('setuptools.command.develop',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\develop.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_clib',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\install_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.bdist_rpm',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('distutils.command.bdist_rpm',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_rpm',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools.command.install',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\setuptools\\command\\install.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_headers',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('distutils.command.install_headers',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.install_data',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('distutils.command.install_data',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.sdist',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_scripts',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_clib',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('distutils.command.build_clib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_ext',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('numpy.distutils.system_info',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\system_info.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py_testing',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\f2py_testing.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_src',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\build_src.py',
+   'PYMODULE'),
+  ('numpy.distutils.conv_template',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\conv_template.py',
+   'PYMODULE'),
+  ('numpy.distutils.from_template',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\from_template.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('fileinput',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\fileinput.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build_py',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('distutils.command.build_py',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.build',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.config',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('numpy.distutils.command.autodist',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\command\\autodist.py',
+   'PYMODULE'),
+  ('numpy.distutils.mingw32ccompiler',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvccompiler',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.cygwinccompiler',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.command.config',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\command\\config.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\cgi.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('numpy.distutils.core',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\core.py',
+   'PYMODULE'),
+  ('numpy.distutils.numpy_distribution',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\numpy_distribution.py',
+   'PYMODULE'),
+  ('numpy.distutils.extension',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\extension.py',
+   'PYMODULE'),
+  ('numpy.distutils.fcompiler.environment',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
+   'PYMODULE'),
+  ('numpy.distutils.exec_command',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\exec_command.py',
+   'PYMODULE'),
+  ('numpy.distutils.misc_util',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\misc_util.py',
+   'PYMODULE'),
+  ('curses',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('lib2to3.refactor',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\refactor.py',
+   'PYMODULE'),
+  ('lib2to3.btm_matcher',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\btm_matcher.py',
+   'PYMODULE'),
+  ('lib2to3.btm_utils',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\btm_utils.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.grammar',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pgen2\\grammar.py',
+   'PYMODULE'),
+  ('lib2to3.pygram',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pygram.py',
+   'PYMODULE'),
+  ('lib2to3.pytree',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pytree.py',
+   'PYMODULE'),
+  ('lib2to3',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\__init__.py',
+   'PYMODULE'),
+  ('lib2to3.patcomp',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\patcomp.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.parse',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pgen2\\parse.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.literals',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pgen2\\literals.py',
+   'PYMODULE'),
+  ('lib2to3.fixer_util',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\fixer_util.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.token',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pgen2\\token.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.tokenize',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pgen2\\tokenize.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.driver',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pgen2\\driver.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.pgen',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pgen2\\pgen.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\lib2to3\\pgen2\\__init__.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('numpy.distutils.__config__',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\__config__.py',
+   'PYMODULE'),
+  ('numpy.distutils.npy_pkg_config',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
+   'PYMODULE'),
+  ('numpy.distutils.info',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\info.py',
+   'PYMODULE'),
+  ('numpy.distutils.unixccompiler',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils.ccompiler',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('numpy.distutils._shell_utils',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\_shell_utils.py',
+   'PYMODULE'),
+  ('numpy.distutils.lib2def',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\lib2def.py',
+   'PYMODULE'),
+  ('numpy.distutils.log',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\log.py',
+   'PYMODULE'),
+  ('numpy.distutils.__version__',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\distutils\\__version__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('nose.plugins',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\plugins\\__init__.py',
+   'PYMODULE'),
+  ('nose.plugins.doctests',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\plugins\\doctests.py',
+   'PYMODULE'),
+  ('nose.ext.dtcompat',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\ext\\dtcompat.py',
+   'PYMODULE'),
+  ('nose.ext',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\ext\\__init__.py',
+   'PYMODULE'),
+  ('nose.util',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\util.py',
+   'PYMODULE'),
+  ('nose.tools',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\tools\\__init__.py',
+   'PYMODULE'),
+  ('nose.tools.trivial',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\tools\\trivial.py',
+   'PYMODULE'),
+  ('nose.tools.nontrivial',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\tools\\nontrivial.py',
+   'PYMODULE'),
+  ('nose.pyversion',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\pyversion.py',
+   'PYMODULE'),
+  ('nose.suite',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\suite.py',
+   'PYMODULE'),
+  ('nose.proxy',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\proxy.py',
+   'PYMODULE'),
+  ('nose.plugins.skip',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\plugins\\skip.py',
+   'PYMODULE'),
+  ('nose.plugins.errorclass',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\plugins\\errorclass.py',
+   'PYMODULE'),
+  ('nose.result',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\result.py',
+   'PYMODULE'),
+  ('nose.config',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\config.py',
+   'PYMODULE'),
+  ('nose.importer',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\importer.py',
+   'PYMODULE'),
+  ('logging.config',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\logging\\config.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('win32evtlogutil',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\win32\\lib\\win32evtlogutil.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('nose.case',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\case.py',
+   'PYMODULE'),
+  ('nose.failure',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\failure.py',
+   'PYMODULE'),
+  ('nose.plugins.plugintest',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\plugins\\plugintest.py',
+   'PYMODULE'),
+  ('nose.core',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\core.py',
+   'PYMODULE'),
+  ('nose.loader',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\loader.py',
+   'PYMODULE'),
+  ('nose.selector',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\selector.py',
+   'PYMODULE'),
+  ('nose.plugins.manager',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\plugins\\manager.py',
+   'PYMODULE'),
+  ('nose.exc',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\exc.py',
+   'PYMODULE'),
+  ('nose.plugins.deprecated',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\plugins\\deprecated.py',
+   'PYMODULE'),
+  ('nose.plugins.base',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\plugins\\base.py',
+   'PYMODULE'),
+  ('nose',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\__init__.py',
+   'PYMODULE'),
+  ('nose.plugins.builtin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\nose\\plugins\\builtin.py',
+   'PYMODULE'),
+  ('scipy',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\scipy\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\scipy\\_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib._testutils',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\scipy\\_lib\\_testutils.py',
+   'PYMODULE'),
+  ('scipy._lib._ccallback',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\scipy\\_lib\\_ccallback.py',
+   'PYMODULE'),
+  ('scipy._lib._version',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\scipy\\_lib\\_version.py',
+   'PYMODULE'),
+  ('scipy._lib.six',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\scipy\\_lib\\six.py',
+   'PYMODULE'),
+  ('scipy.version',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\scipy\\version.py',
+   'PYMODULE'),
+  ('scipy.__config__',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\scipy\\__config__.py',
+   'PYMODULE'),
+  ('scipy._distributor_init',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\scipy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft.fftpack',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\fft\\fftpack.py',
+   'PYMODULE'),
+  ('numpy.fft.info',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\fft\\info.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.info',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\linalg\\info.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.info',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\lib\\info.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.info',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\core\\info.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Aswin '
+   'D\\AppData\\Roaming\\Python\\Python37\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('reportlab.lib.rl_safe_eval',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\rl_safe_eval.py',
+   'PYMODULE'),
+  ('reportlab.lib.rltempfile',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\rltempfile.py',
+   'PYMODULE'),
+  ('reportlab.lib.logger',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\logger.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_zapfdingbats',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_zapfdingbats.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_symbol',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_symbol.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesbolditalic',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesbolditalic.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesitalic',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesitalic.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesbold',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesbold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_timesroman',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_timesroman.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticaboldoblique',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticaboldoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticaoblique',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticaoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helveticabold',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helveticabold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_helvetica',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_helvetica.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courierboldoblique',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courierboldoblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courieroblique',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courieroblique.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courierbold',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courierbold.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_widths_courier',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_widths_courier.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_macexpert',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_macexpert.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_pdfdoc',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_pdfdoc.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_zapfdingbats',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_zapfdingbats.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_symbol',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_symbol.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_standard',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_standard.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_macroman',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_macroman.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase._fontdata_enc_winansi',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\_fontdata_enc_winansi.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\__init__.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.ttfonts',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\ttfonts.py',
+   'PYMODULE'),
+  ('png',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\png.py',
+   'PYMODULE'),
+  ('pyqrcode',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyqrcode\\__init__.py',
+   'PYMODULE'),
+  ('pyqrcode.builder',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyqrcode\\builder.py',
+   'PYMODULE'),
+  ('pyqrcode.tables',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pyqrcode\\tables.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\csv.py',
+   'PYMODULE'),
+  ('reportlab.lib.pagesizes',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\pagesizes.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.canvas',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfgen\\canvas.py',
+   'PYMODULE'),
+  ('reportlab.pdfbase.acroform',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfbase\\acroform.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pdfimages',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfgen\\pdfimages.py',
+   'PYMODULE'),
+  ('reportlab.lib.boxstuff',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\lib\\boxstuff.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.textobject',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfgen\\textobject.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pathobject',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfgen\\pathobject.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen.pdfgeom',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfgen\\pdfgeom.py',
+   'PYMODULE'),
+  ('reportlab.pdfgen',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\reportlab\\pdfgen\\__init__.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\aswin d\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
+   'PYMODULE'),
+  ('PyPDF2',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyPDF2\\__init__.py',
+   'PYMODULE'),
+  ('PyPDF2._version',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyPDF2\\_version.py',
+   'PYMODULE'),
+  ('PyPDF2.pagerange',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyPDF2\\pagerange.py',
+   'PYMODULE'),
+  ('PyPDF2.utils',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyPDF2\\utils.py',
+   'PYMODULE'),
+  ('PyPDF2.merger',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyPDF2\\merger.py',
+   'PYMODULE'),
+  ('PyPDF2.generic',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyPDF2\\generic.py',
+   'PYMODULE'),
+  ('PyPDF2.pdf',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyPDF2\\pdf.py',
+   'PYMODULE'),
+  ('PyPDF2.xmp',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyPDF2\\xmp.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('PyPDF2.filters',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyPDF2\\filters.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\aswin '
+   'd\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\constants.py',
+   'PYMODULE')])
