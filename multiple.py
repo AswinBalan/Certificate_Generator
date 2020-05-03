@@ -54,6 +54,9 @@ def multipleFunction(frame,root):
     titleLabel= Label(frame,text="Multiple  Students",font=("Times", "24", "bold italic"),bg="lightblue",fg="green")
     titleLabel.place(x=350,y=50)
 
+    infoLabel= Label(frame,text="XL must contain 4 columns in the order of [{Name},{Score},{Timestamp},{Email}]",font=("Times", "14", "bold italic"),bg="lightblue",fg="red")
+    infoLabel.place(x=100,y=100)
+
     # SET 1
     browsebutton1 = Button(frame,width=15, text="Browse", command=browsefunc1)
     browsebutton1.place(x=300,y=150)
