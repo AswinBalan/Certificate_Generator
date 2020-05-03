@@ -1,7 +1,7 @@
 # Certificate_Generator
 This will generate Online Certificates for a list of students
 
-Pull (or) Download this project into a location of your computer
+Clone (or) Download this project into a location of your computer
 
 For running this project you need to enable Google Drive API
 
