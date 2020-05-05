@@ -53,6 +53,7 @@ def id_fn(entryList):
 
     # Merging JSON files
     for (key,value), (key2,value2) in zip(internet.items(), local.items()):
+
         for each1 in value:
             for each2 in value2:    
                 if each2['Email'].split('@')[0]+"_Certificate.pdf" == each1['Email']:
@@ -99,8 +100,10 @@ def automate(frame,root):
     labelList =["Photoshop Folder ID","Python Folder ID", "C Folder ID"]
 
     y = 150
+    cnt = 0
+    listitems = ["dummy 1","dummy 2","dummy 3"]
     for i in labelList:
-            var1 = StringVar(frame)
+            var1 = StringVar(frame,value=listitems[cnt])
 
             fileIDLabel = Label(frame,text=i,width=25)
             fileIDLabel.place(x=100,y=y)
@@ -108,6 +111,7 @@ def automate(frame,root):
             fileIDEntry.place(x=400,y=y) 
             entryList.append(fileIDEntry)
             y = y + 50
+            cnt = cnt + 1
 
     browseLabel = Label(frame,text="Choose JSON file to update", width=25)
     browseLabel.place(x=100,y=y)

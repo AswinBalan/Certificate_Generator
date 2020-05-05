@@ -133,8 +133,8 @@ def draw(rows,temp,domain,total,singlestudent):
             domain_list.append(user_info)
             # if True:
             #    break
-    json_data[domain] = domain_list
-
+    json_data[domain.strip().replace(" ",'_')] = domain_list
+    
 
     # Writing to the JSON file
 
