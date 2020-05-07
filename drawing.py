@@ -103,7 +103,7 @@ def draw(rows,temp,domain,total,singlestudent):
             
             # Writing Encrypted Information
             url = pyqrcode.create(s)
-            url.png('myqr.png', scale = 6) 
+            url.png('myqr.png', scale = 2) 
             can.drawImage('./myqr.png',650,117,100,100)
             can.save()
             
