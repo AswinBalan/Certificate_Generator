@@ -21,7 +21,7 @@ PyPDF2==1.26.0
 pypng==0.0.20
 PyQRCode==1.2.1
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 reportlab==3.5.42
 requests==2.23.0
 rsa==4.0
